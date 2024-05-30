@@ -1,8 +1,6 @@
 package com.example.clase10crud.daos;
 
 
-import com.example.clase10crud.beans.Job;
-
 import java.sql.*;
 import java.util.ArrayList;
 
