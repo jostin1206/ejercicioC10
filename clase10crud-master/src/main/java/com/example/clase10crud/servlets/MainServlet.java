@@ -1,6 +1,5 @@
 package com.example.clase10crud.servlets;
 
-import com.example.clase10crud.daos.JobDao;
 import jakarta.servlet.RequestDispatcher;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
